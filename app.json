@@ -1,26 +1,30 @@
 {
-    "name": "mydemo",
-    "description": "first try",
+    "name": "zhangwh demo",
+    "description": "demo1",
     "keywords": ["hello"],
     "env": {
+        "AA": {
+            "description": "deploy",
+            "value": "deploy try"
+        },
         "AUUID": {
-            "description": "充当配置",
+            "description": "UUID",
             "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署",
+            "description": "caddy index",
             "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
         },
         "CONFIGCADDY": {
-            "description": "自定义网络地址读取配置",
+            "description": "config caddy",
             "value": "https://github.com/zhangwh08/mydemo/tree/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
-            "description": "自定义网络地址读取配置",
+            "description": "config xray",
             "value": "https://github.com/zhangwh08/mydemo/tree/master/etc/xray.json"
         },
         "ParameterSSENCYPT": {
-            "description": "支持协议",
+            "description": "encrypt",
             "value": "chacha20-ietf-poly1305"
         },
         "StoreFiles": {
