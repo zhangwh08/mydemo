@@ -13,11 +13,11 @@
         },
         "CONFIGCADDY": {
             "description": "config caddy",
-            "value": "https://raw.githubusercontent.com/zhangwh08/mydemo/master/etc/Caddyfile?token=AUISQ26QA3VUKB6DMUYIMALBEOIXC"
+            "value": "https://raw.githubusercontent.com/zhangwh08/mydemo/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "config ray",
-            "value": "https://raw.githubusercontent.com/zhangwh08/mydemo/master/etc/xray.json?token=AUISQ25U44AHPQYNHAASST3BEOIYQ"
+            "value": "https://raw.githubusercontent.com/zhangwh08/mydemo/master/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "encrypt",
@@ -25,7 +25,7 @@
         },
         "StoreFiles": {
             "description": "filelist",
-            "value": "https://raw.githubusercontent.com/zhangwh08/mydemo/master/etc/StoreFiles?token=AUISQ27EYCZBRLTJZNAQD5LBEOIRM"
+            "value": "https://raw.githubusercontent.com/zhangwh08/mydemo/master/etc/StoreFiles"
         }
     },
     "website": "https://github.com/zhangwh08/mydemo",
