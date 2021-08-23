@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "config caddy",
-            "value": "https://github.com/zhangwh08/mydemo/tree/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "config xray",
-            "value": "https://github.com/zhangwh08/mydemo/tree/master/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "encrypt",
@@ -29,7 +29,7 @@
         },
         "StoreFiles": {
             "description": "files",
-            "value": "https://github.com/zhangwh08/mydemo/tree/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/StoreFiles"
         }
     },
     "website": "https://github.com/zhangwh08/mydemo",
